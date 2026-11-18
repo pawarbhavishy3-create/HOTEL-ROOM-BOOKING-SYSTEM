@@ -1,9 +1,16 @@
+Hotel Room Booking System
+Name: Bhavishy Pawar
+
+ERP: RU-26-01609
+
+Section: 1L
+
+Project: PS 32, Employee Attendance System
 # Hotel Room Booking System (PS 64)
 
 A simple Python console application for a hotel. The user can view available rooms, book a room for a number of nights, cancel a booking, and get a bill with 12% GST. Bookings are saved in a file so they are not lost when the program closes.
 
 **University:** Rungta International Skills University
-**School:** School of Computer Science and Engineering (B.Tech CSE)
 **Language:** Python 3
 **Concepts used:** Dictionaries, Lists, Functions, File Handling
 
