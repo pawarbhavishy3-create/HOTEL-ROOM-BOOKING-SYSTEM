@@ -1,12 +1,12 @@
-Hotel Room Booking System
+# Hotel Room Booking System (PS 64)
 Name: Bhavishy Pawar
 
 ERP: RU-26-01609
 
 Section: 1L
 
-Project: PS 32, Employee Attendance System
-# Hotel Room Booking System (PS 64)
+Project: PS 64, Hotel Room Booking System
+
 
 A simple Python console application for a hotel. The user can view available rooms, book a room for a number of nights, cancel a booking, and get a bill with 12% GST. Bookings are saved in a file so they are not lost when the program closes.
 
